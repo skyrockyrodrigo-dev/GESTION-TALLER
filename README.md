@@ -1,4 +1,4 @@
-# Gestión de taller (Servicio Mecanica Integral)
+# Gestión de Taller (Servicio Mecanica Integral)
 
 Aplicación web de una sola página: presupuestos, historial con estados y reportes de producción y facturación. HTML + Tailwind CSS (CDN) + JavaScript, sin instalación. Los datos se guardan en el `localStorage` del navegador.
 
