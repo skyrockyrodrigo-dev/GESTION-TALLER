@@ -1,5 +1,5 @@
 /* ===== Configuración del taller (edite estos datos) ===== */
-const TALLER = { nombre: 'Servicio Mecánica Integral', datos: 'Taller M - I · Dirección · Teléfono' };
+const TALLER = { nombre: 'Servicio Mecánica Integral', datos: 'Concepcion y Tte. Venancio Ross · 0986397352' };
 const N_TRAB = 20, N_REP = 15, KEY = 'taller_presupuestos';
 
 const $ = s => document.querySelector(s), $$ = s => [...document.querySelectorAll(s)];
